@@ -8,8 +8,8 @@ from weather_forecast import *
 
 # -----------My current location------------------------
 
-MY_LAT = 43.955991
-MY_LONG = -93.642752
+MY_LAT = 30.955991
+MY_LONG = -120.642752
 # ----------Current date and tomorrow ------------------
 date = datetime.datetime.now()
 
